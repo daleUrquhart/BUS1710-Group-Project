@@ -18,24 +18,32 @@ Engagement Ideas:
     Skits
     Powerpoint to slide through
 
-Meeting Schedule and layout:
-    Meeting one:
-        Complete introduction to topic
-    
-    Meeting two:
-        Complete body topic one
 
-    Meeting three:
-        Complete body topic two
+Intro (2 minutes): 
+    Introducing team, and the general idea of the topic
 
-    Meeting four:
-        Complete body topic three
+Leadership and Management Practices (3 minutes, 400 words):
+    Discuss various leadership styles and their impact on team performance.
+    Explore management strategies for creating a positive and motivating work environment.
+    Reference relevant leadership theories or models without tying them to a specific organization.
 
-    Meeting five:
-        Complete outro
-    
-    Meeting six:
-        Complete Skits
-    
-    Meeting seven:
-        Rehearse
+Employee Involvement and Empowerment (3 minutes, 400 words):
+    Explore the importance of involving employees in decision-making processes.
+    Discuss theories or frameworks related to employee empowerment.
+    Share insights from academic research on how employee involvement contributes to organizational success.
+
+Performance Feedback and Recognition (3 minutes, 400 words):
+    Delve into the significance of regular performance feedback and recognition.
+    Reference studies or theories on effective feedback mechanisms.
+    Discuss the psychological impact of recognition on employee motivation and performance.
+
+Implementations in the workplace (3 minutes, 400 words):
+    .
+
+Conclusion (1 minute):
+    Summarize key points
+    Reinforce importance
+    End with a concluding hook
+
+Q&A:
+    Prepare a couple questions to go over -- low priority, if we have time
